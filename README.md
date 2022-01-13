@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Backend development 
-- 🌱 I’m currently learning Node js,express js, Data Structures and Algorithms ect..
+- 🌱 I’m currently learning express js, Data Structures and Algorithms ect..
 - 💬 Ask me about web development
 - 📫 How to reach me: kavinskarasu@gmail.com
 
