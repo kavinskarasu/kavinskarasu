@@ -1,6 +1,6 @@
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-<h2> My name is Kaviarasu and i'm a FullStack developer, from  <b>Tamil Nadu, India</b>. </h2>
+<h2> My name is Kaviarasu S and i'm a FullStack developer, from  <b>Tamil Nadu, India</b>. </h2>
 
 ## About me
 
