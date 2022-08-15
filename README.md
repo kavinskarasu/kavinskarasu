@@ -1,6 +1,4 @@
-<p align="center"><a href="https://kavinskarasu.github.io"><img width="80%" alt="Hello, I'm Kaviarasu S. I love to do Projects" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
+Hi EveryOne I'am Kaviarasu s
 
 
 
