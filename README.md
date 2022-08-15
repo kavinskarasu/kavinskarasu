@@ -1,8 +1,19 @@
-Hi EveryOne I'am Kaviarasu s
-
-
-
-- 🔭 I’m currently working on Backend development 
+<!-- **** Hero Section **** -->
+<section id="hero" class="jumbotron">
+  <div class="container">
+    <h1 class="hero-title load-hidden">
+      Hi, my name is <span class="text-color-main">Kaviarasu S</span>
+      <br />
+      I'm the FullStack Developer.
+    </h1>
+    <p class="hero-cta load-hidden">
+      <a rel="noreferrer" class="cta-btn cta-btn--hero" href="#about">
+        Know more
+      </a>
+    </p>
+  </div>
+</section>
+<!-- /END Hero Section -->
 - 🌱 I’m currently learning express js,spring boot, Data Structures and Algorithms ect..
 - 💬 Ask me about web development
 - 📫 How to reach me: kavinskarasu@gmail.com
