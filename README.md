@@ -29,6 +29,6 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 
-
+<hr>
 <br><br><br><br><br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kavinskarasu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="kaviarasu's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinskarasu&layout=compact&theme=buefy&hide_border=true" /></a> 
