@@ -9,7 +9,7 @@
 - 🎯 Goals: earn in dollar 💰 
 - 🎲 And ... i  will play  ♟ chess online
 
-## I code with
+<!-- ## I code with
 
 <a href="https://angular.io/" target="_blank">
   <img align="left" title="Angular" alt="Angular" width="40px" src="./assets/angular-icon.svg" />
@@ -51,7 +51,7 @@
   <img align="left" title="visual" alt="visual" width="40px" src="./assets/visual.svg" />
 </a>
 
-
+ -->
 
 
 <br><br><br><br><br><br>
