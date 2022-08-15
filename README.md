@@ -9,49 +9,25 @@
 - 🎯 Goals: earn in dollar 💰 
 - 🎲 And ... i  will play  ♟ chess online
 
-<!-- ## I code with
+ ### I code with 🛠 
 
-<a href="https://angular.io/" target="_blank">
-  <img align="left" title="Angular" alt="Angular" width="40px" src="./assets/angular-icon.svg" />
-</a>
 
-<a href="https://www.postman.com/" target="_blank">
- <img align="left" title="Post Man" alt="PostMan" width="40px" src="./assets/getpostman-icon.svg" />
-</a>
 
-<a href="#" target="_blank">
- <img align="left" title="Css" alt=" Css" width="40px" src="./assets/css.png" />
-</a>
 
-<a href="#" target="_blank">
-  <img align="left" title="Html" alt="Html" width="40px" src="./assets/html.png" />
-</a>
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![MySql](http://img.shields.io/badge/-MySql-255278?style=flat-square&logo=mysql&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
+![Angularjs](https://img.shields.io/badge/-Angularjs-af2d2f?style=flat-square&logo=angular&logoColor=ffffff)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+![Expressjs](https://img.shields.io/badge/-Expressjs-0f0f0f?style=flat-square&logo=express&logoColor=ffffff)
+![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
+![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img align="left" title="Js" alt=" Js" width="40px" src="./assets/j.svg" />
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-  <img align="left" title="Mongo db" alt="Mongo db" width="40px" src="./assets/mongodb.svg" />
-</a>
-
-<a href="#" target="_blank">
-  <img align="left" title="Sql" alt="Sql" width="100px" src="./assets/sql.png" />
-</a>
-
-<a href="#" target="_blank">
-  <img align="left" title="Java" alt="Java" width="40px" src="./assets/java.svg" />
-</a>
-
-<a href="#" target="_blank">
-  <img align="left" title="Node js" alt="Node js" width="40px" src="./assets/nodejs.svg" />
-</a>
-
-<a href="#" target="_blank">
-  <img align="left" title="visual" alt="visual" width="40px" src="./assets/visual.svg" />
-</a>
-
- -->
 
 
 <br><br><br><br><br><br>
