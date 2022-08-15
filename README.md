@@ -36,7 +36,7 @@
 </a>
 
 <a href="#" target="_blank">
-  <img align="left" title="Sql" alt="Sql" width="40px" src="./assets/sql.png" />
+  <img align="left" title="Sql" alt="Sql" width="100px" src="./assets/sql.png" />
 </a>
 
 <a href="#" target="_blank">
