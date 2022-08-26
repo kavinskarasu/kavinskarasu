@@ -32,7 +32,7 @@
 
 <hr>
 <br><br><br><br><br><br>
-  <img align="center" src="https://github-readme-stats-nine-sand.vercel.app/api?username=kavinskarau&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+  <img align="center" src="https://github-readme-stats-nine-sand.vercel.app/api?username=kavinskarasu&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
   <a href="">
       <img align="center" src="https://github-readme-stats-nine-sand.vercel.app/api/top-langs/?username=kavinskarasu&theme=react&line_height=40&hide=css"/>
     </a>
