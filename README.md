@@ -5,7 +5,7 @@
 ## About me
 
 
-- 📚 I'm currently learning Data Structures,Spring Boot
+- 📚 I'm currently learning Data Structures
 - 🎯 Goals: earn in dollar 💰 
 - 🎲 And ... i  will play  ♟ chess online
 
